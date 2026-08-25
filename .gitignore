@@ -1,0 +1,2 @@
+# Node modules (handled by my-app's own .gitignore)
+node_modules/
